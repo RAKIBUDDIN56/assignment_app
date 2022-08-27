@@ -1,16 +1,18 @@
 # demo_app
 
-A new Flutter project.
+## [Google drive link](https://drive.google.com/drive/folders/1TJDtEpO_gYE5Wn3EpSfid_5RUKdFswPh?usp=sharing)
 
-## Getting Started
+Technology used:
 
-This project is a starting point for a Flutter application.
+1. Getx for state management
+2. Dependency Injection
+3. Tween Animation
+4. Dio
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Screenshot_20220827-224420](https://user-images.githubusercontent.com/52502582/187040822-a79ff19d-291d-4875-9275-4b454880e6b8.png)
+![Screenshot_20220827-224025](https://user-images.githubusercontent.com/52502582/187040826-612c55a3-7551-4b24-a277-840811bfec00.png)
+![Screenshot_20220827-224031](https://user-images.githubusercontent.com/52502582/187040830-3011f768-cc28-4224-b1dc-ce889d8e5deb.png)
+![Screenshot_20220827-224039](https://user-images.githubusercontent.com/52502582/187040832-202baad8-3e91-4db4-bdaf-3efdd7814d5e.png)
