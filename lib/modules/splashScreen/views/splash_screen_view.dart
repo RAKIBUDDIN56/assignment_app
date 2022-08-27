@@ -10,7 +10,8 @@ class SplashPage extends StatefulWidget {
 }
 
 class _SplashPageState extends State<SplashPage> {
-  final splashController = Get.find<SplashPageController>();
+  final splashController =
+      Get.put<SplashPageController>(SplashPageController());
   @override
   void initState() {
     super.initState();

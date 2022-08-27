@@ -1,3 +1,4 @@
+import 'package:demo_app/bindings/initial_binding.dart';
 import 'package:demo_app/modules/home/views/home_page.dart';
 import 'package:get/get.dart';
 import '/modules/home/bindings/home_binding.dart';
@@ -29,8 +30,8 @@ class AppPages {
       binding: SigninBinding(),
     ),
     GetPage(
-      name: Routes.splash,
-      page: () => const SplashPage(),
-    ),
+        name: Routes.splash,
+        page: () => const SplashPage(),
+        binding: SplashBinding()),
   ];
 }
