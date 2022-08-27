@@ -1,7 +1,6 @@
+import 'package:demo_app/bindings/initial_binding.dart';
 import 'package:demo_app/config/routes/app_pages.dart';
 
-import '/presentation/features/home/binding/bindings.dart';
-import '/presentation/features/home/views/splash_page.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -15,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      initialBinding: InitialBindings(),
+      initialBinding: SplashBinding(),
       initialRoute: '/',
       getPages: AppPages.routes,
     );
