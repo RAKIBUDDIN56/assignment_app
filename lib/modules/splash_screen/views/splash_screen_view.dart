@@ -1,4 +1,4 @@
-import 'package:demo_app/modules/splashScreen/controllers/splash_screen_controller.dart';
+import 'package:demo_app/modules/splash_screen/controllers/splash_screen_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

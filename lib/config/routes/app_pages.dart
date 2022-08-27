@@ -6,7 +6,7 @@ import '/modules/signin/bindings/signin_binding.dart';
 import '../../modules/signin/views/signin_page.dart';
 import '../../modules/create_account/bindings/create_account_binding.dart';
 import '../../modules/create_account/views/create_account_page.dart';
-import '/modules/splashScreen/views/splash_screen_view.dart';
+import '/modules/splash_screen/views/splash_screen_view.dart';
 
 part 'app_routes.dart';
 
